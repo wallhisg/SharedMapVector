@@ -1,0 +1,2 @@
+Box.o: src/DeviceManager/Box.cpp
+src/DeviceManager/Module.deps: src/DeviceManager/Box.cpp

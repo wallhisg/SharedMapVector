@@ -1,0 +1,2 @@
+InterProcess.o: src/ipc/InterProcess.cpp
+src/ipc/InterProcess.deps: src/ipc/InterProcess.cpp
